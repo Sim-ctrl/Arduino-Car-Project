@@ -1,5 +1,5 @@
 # Arduino-Car-Project
-In this Project im going to work with my ESP8266 and some tools, like a RFID-Reader, OLED Display and Relays
+In this Project im going to work with one of my many ESP8266 and some tools, like a RFID-Reader, OLED Display and Relays
 
 Hier sind 3 Dateien zu finden.
 1 - Ein klassisches Programm um den NFC/RFID-Reader zu benutzen
